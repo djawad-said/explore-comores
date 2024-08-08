@@ -343,3 +343,7 @@ footer {
     text-align: center;
     padding: 20px 0;
 }
+
+footer p {
+    color: white;
+}
